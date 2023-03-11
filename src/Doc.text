@@ -1,0 +1,15 @@
+Redux solve the problem data sharing
+Redux is not tied to React
+Can be used with React,Angular,Vue or even vanilla JavaScript
+
+=>Redux is a state container
+Redux stores the state of your application
+--------------------
+npm install @reduxjs/toolkit
+npm install react-redux
+
+redux toolkit extension google chrome extension
+-------------------
+useSelector hook have a access of a state
+
+
